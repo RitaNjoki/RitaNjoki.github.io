@@ -16,7 +16,7 @@ Most people think of DNS as "the thing that makes google.com work." But for cybe
 
 The TryHackMe "DNS In Detail" lab forced me past surface-level knowledge into the actual mechanics of domain name resolution, DNS record types, and the security implications of misconfiguration.
 
-![DNS Hierarchy](/assets/dns-hierarchy-pyramid.jpg)
+![DNS Hierarchy](/assets/dnssec.jpg)
 _The hierarchical structure of DNS: Root → TLD → Authoritative Nameservers_
 
 ## Lab Objectives

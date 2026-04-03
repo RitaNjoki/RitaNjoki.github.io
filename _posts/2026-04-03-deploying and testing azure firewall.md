@@ -5,7 +5,7 @@ categories: [Cloud, Network-Security, Azure, Firewall, Lab]
 tags: [azure, firewall, network-rules, application-rules, cloud-security]
 pin: true
 image:
-  path: /assets/azure-firewall-lab.jpg
+  path: /assets/azure.jpg
   alt: Azure Firewall deployment and testing in a secure lab environment
 
 ---

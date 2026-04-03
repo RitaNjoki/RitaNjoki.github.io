@@ -14,7 +14,7 @@ image:
 
 As a cybersecurity student, I needed to understand how organizations securely connect remote offices and data centers. **IPsec-based site-to-site VPNs** are the backbone of enterprise network security, encrypting and authenticating all traffic between branch offices. This lab gave me hands-on experience configuring a real VPN tunnel from scratch.
 
-![IPsec VPN Architecture](/assets/ipsec-tunnel-flow.jpg)
+![IPsec VPN Architecture](/assets/ipsec.jpg)
 _A secure encrypted tunnel connecting LAN to LAN across an untrusted network_
 
 ## Lab Objectives
