@@ -5,7 +5,7 @@ categories: [Network-Security, VPN, IPsec, Cisco, Lab]
 tags: [ipsec, vpn, isakmp, crypto, packet-tracer, network-encryption]
 pin: true
 image:
-  path: /assets/ipsec-vpn-lab.jpg
+  path: /assets/ipsec.jpg
   alt: IPsec Site-to-Site VPN tunnel connecting two remote networks
 
 ---

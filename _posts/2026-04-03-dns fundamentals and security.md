@@ -5,7 +5,7 @@ categories: [Network-Security, DNS, Cloud, TryHackMe, Fundamentals]
 tags: [dns, domain-names, record-types, dns-queries, network-protocols, security]
 pin: true
 image:
-  path: /assets/dns-fundamentals.jpg
+  path: /assets/dnssec.jpg
   alt: DNS resolution flow showing hierarchy from root to authoritative nameserver
 
 ---

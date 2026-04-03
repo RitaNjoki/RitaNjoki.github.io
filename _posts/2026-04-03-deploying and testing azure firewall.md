@@ -14,7 +14,7 @@ image:
 
 As a Computer Science student focused on **Cloud and Network Security**, I needed hands-on experience with enterprise-grade firewall configurations. Azure Firewall presented the perfect opportunity to understand how modern cloud platforms enforce traffic control, implement security policies, and validate network access rules in real-world scenarios.
 
-![Azure Firewall Architecture](/assets/azure-firewall-architecture.jpg)
+![Azure Firewall Architecture](/assets/azure.jpg)
 _A secured network with Azure Firewall protecting workload subnets_
 
 ## Lab Objectives
