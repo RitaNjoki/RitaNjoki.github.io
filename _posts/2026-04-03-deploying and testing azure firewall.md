@@ -12,7 +12,7 @@ image:
 
 ## Why I Built This Lab
 
-As a Computer Science student focused on **Cloud and Network Security**, I needed hands-on experience with enterprise-grade firewall configurations. Azure Firewall presented the perfect opportunity to understand how modern cloud platforms enforce traffic control, implement security policies, and validate network access rules in real-world scenarios.
+As a Computer Science student focused on **Cloud and Network Security**, I needed hands-on experience with enterprise-grade firewall configurations. **[Azure Firewall](https://learn.microsoft.com/en-us/azure/firewall/overview)** presented the perfect opportunity to understand how modern cloud platforms enforce traffic control, implement security policies, and validate network access rules in real-world scenarios.
 
 ![Azure Firewall Architecture](/assets/azure.jpg)
 _A secured network with Azure Firewall protecting workload subnets_
@@ -90,14 +90,14 @@ The moment of truth — testing whether the firewall actually worked as designed
 
 **Allowed Traffic (bing.com):**
 ```
-✓ Successfully accessed https://www.bing.com
+✓ Successfully accessed [https://www.bing.com](https://www.bing.com)
 Status: HTTP 200
 Firewall Action: ALLOW (matched App-Coll01 rule)
 ```
 
 **Blocked Traffic (microsoft.com):**
 ```
-✗ Access attempt to http://www.microsoft.com
+✗ Access attempt to [http://www.microsoft.com](http://www.microsoft.com)
 Status: Firewall Deny Message
 Error: "HTTP request from 10.0.2.4:xxxxx to microsoft.com:80. Action: Deny. No rule matched. Proceeding with default action."
 Firewall Action: DENY (no matching rule)

@@ -12,9 +12,9 @@ image:
 
 ## Why I Studied DNS
 
-Most people think of DNS as "the thing that makes google.com work." But for cybersecurity professionals, DNS is far more — it's a critical infrastructure protocol that's both essential and frequently exploited. Understanding DNS deeply is non-negotiable for anyone in network or cloud security.
+Most people think of **[DNS](https://en.wikipedia.org/wiki/Domain_Name_System)** as "the thing that makes google.com work." But for cybersecurity professionals, DNS is far more — it's a critical infrastructure protocol that's both essential and frequently exploited. Understanding DNS deeply is non-negotiable for anyone in network or cloud security.
 
-The TryHackMe "DNS In Detail" lab forced me past surface-level knowledge into the actual mechanics of domain name resolution, DNS record types, and the security implications of misconfiguration.
+The **[TryHackMe](https://tryhackme.com)** "DNS In Detail" lab forced me past surface-level knowledge into the actual mechanics of domain name resolution, DNS record types, and the security implications of misconfiguration.
 
 ![DNS Hierarchy](/assets/dnssec.jpg)
 _The hierarchical structure of DNS: Root → TLD → Authoritative Nameservers_

@@ -12,7 +12,7 @@ image:
 
 ## Why I Built This Lab
 
-As a cybersecurity student, I needed to understand how organizations securely connect remote offices and data centers. **IPsec-based site-to-site VPNs** are the backbone of enterprise network security, encrypting and authenticating all traffic between branch offices. This lab gave me hands-on experience configuring a real VPN tunnel from scratch.
+As a cybersecurity student, I needed to understand how organizations securely connect remote offices and data centers. **[IPsec](https://en.wikipedia.org/wiki/IPsec)-based site-to-site VPNs** are the backbone of enterprise network security, encrypting and authenticating all traffic between branch offices. This lab gave me hands-on experience configuring a real VPN tunnel from scratch.
 
 ![IPsec VPN Architecture](/assets/ipsec.jpg)
 _A secure encrypted tunnel connecting LAN to LAN across an untrusted network_
@@ -41,7 +41,7 @@ The challenge: Encrypt only traffic between these two LANs while leaving other t
 
 ### Phase 1: ISAKMP (Internet Key Exchange)
 
-ISAKMP is where the VPN tunnel is negotiated and established. Think of it as the "handshake" that sets up the secure channel.
+**[ISAKMP](https://en.wikipedia.org/wiki/Internet_Key_Exchange)** is where the VPN tunnel is negotiated and established. Think of it as the "handshake" that sets up the secure channel.
 
 **Configuration on R1:**
 
